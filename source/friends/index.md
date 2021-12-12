@@ -1,4 +1,7 @@
 ---
 title: friends
-date: 2021-10-26 14:56:51
+date: 2018-12-12 21:25:30
+type: "friends"
+layout: "friends"
 ---
+

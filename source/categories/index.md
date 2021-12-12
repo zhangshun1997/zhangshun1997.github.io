@@ -1,4 +1,7 @@
 ---
 title: categories
-date: 2021-10-26 14:55:23
+date: 2018-09-30 17:25:30
+type: "categories"
+layout: "categories"
 ---
+
